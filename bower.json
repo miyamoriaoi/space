@@ -1,0 +1,21 @@
+{
+  "name": "space",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tomoka"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/miyamoriaoi/space",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "semantic": "^2.1.8"
+  }
+}
