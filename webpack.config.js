@@ -1,7 +1,7 @@
 var path = require('path');
 
 var config = {
-    entry: [path.resolve(__dirname, 'app/js/main.js')],
+    entry: [path.resolve(__dirname, 'app/js/main.jsx')],
     output: {
         path: path.resolve(__dirname, './dist/'),
         filename: 'space.js'
